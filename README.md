@@ -21,8 +21,7 @@ Flight Details Table
 ![flights](https://github.com/user-attachments/assets/852d2e9c-8ff6-4b9b-a382-f4e64f8f390b)
 
 Flight Booking page
-![bookings](https://github.com/user-attachments/assets/d66a3f2d-c4f0-4827-aeae-1a7bcae16d53)
-![confirmation](https://github.com/user-attachments/assets/b7f5a9a2-c4a1-4fbb-a3f9-acd691144b0e)
+![bookings](https://github.com/user-attachments/assets/d66a3f2d-c4f0-4827-aeae-1a7bcae16d53)     ![confirmation](https://github.com/user-attachments/assets/b7f5a9a2-c4a1-4fbb-a3f9-acd691144b0e)
 
 Flight Booking Table
-![confirmation](https://github.com/user-attachments/assets/ecf482e1-2b1c-43af-8b7e-338a462597a7)
+![booking](https://github.com/user-attachments/assets/cfc33d45-b158-46f5-b28f-b10402adb108)
